@@ -1,0 +1,2 @@
+Este proyecto consiste en una replica de la página principal de spotify, su login, y registrarse. usando HTML y CSS. Finalmente podria hacer una conexión con
+la base de datos postgreSQL a través de PHP
